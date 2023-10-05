@@ -1,0 +1,10 @@
+
+# Name of the new google sheet
+[google_ballerina_integratio]
+googleSheetName = ""
+
+#Google Sheet
+[google_ballerina_integration.googleSheetConfigs]
+refreshToken= ""
+clientID= ""
+clientSecret= ""

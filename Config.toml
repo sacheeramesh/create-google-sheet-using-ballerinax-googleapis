@@ -1,0 +1,10 @@
+
+# Name of the new google sheet
+[google_ballerina_integration]
+googleSheetName = "Test Sheet"
+
+#Google Sheet
+[google_ballerina_integration.googleSheetConfigs]
+refreshToken= "1//04HlJWt5RVRwvCgYIARAAGAQSNwF-L9IrTG-IBEKsYWLuMDJTHQpXm0tugbBOlqA6Tvgyyp14_m9ZbvV8fxQqy1ri8XLIioUt_SI"
+clientID= "792742408460-1is093261ck2dt37110qbskmq10m9oqi.apps.googleusercontent.com"
+clientSecret= "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"
